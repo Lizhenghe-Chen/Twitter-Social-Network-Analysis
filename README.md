@@ -17,3 +17,5 @@ Otherwise, you can simply download one of the social networks available at:
 https://snap.stanford.edu/data/#socnets
 For instance you can use:
 https://snap.stanford.edu/data/ego-Facebook.html
+![image](https://user-images.githubusercontent.com/61171413/150641753-2367384c-ae1f-4e70-b4de-a8e8a52c9e70.png)
+![image](https://user-images.githubusercontent.com/61171413/150641783-b188a640-c328-4bbd-98f0-42d8777eb30d.png)
